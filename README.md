@@ -48,6 +48,7 @@ The following are the dependencies that was used during the development of the *
 * Fonts Awesome Icon
 * Google Fonts
 * MDN Documentation
+* Sandra Isreal-Ovirih Blog on [scotch.io](https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript)
 
 ## Installation
 
