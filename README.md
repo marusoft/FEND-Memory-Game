@@ -16,8 +16,7 @@
 ## Description of the Memory Game
 The Memory game is a matching game that display a lists of pair of identical cards, and randomly shuffles the cards.
 A user of _the Memory Game_ wins once all cards have been successfully matched.
-
-### [Project Link](https://marusoft.github.io/Fend-Project-Memory-Game)
+[Project Link](https://marusoft.github.io/Fend-Project-Memory-Game)
 
 ## Shuffling and Matching Cards
 The game randomly shuffes the cards. A player(user) starts by clicking each cards to reveal two matched cards.
