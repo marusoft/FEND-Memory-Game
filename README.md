@@ -42,7 +42,7 @@ A congratulations modal appears once all cards have been successfully matched by
 All application components are designed to be usable across modern desktop, tablet, and phone browsers.
 
 ## Dependencies
-The following are the dependencies that was used during the development of the ** Memory Game Project ** :
+The following are the dependencies that was used during the development of the *Memory Game Project* :
 * HTML/CSS
 * Vanilla JavaScript with DOM manipulation
 * Fonts Awesome Icon
