@@ -16,7 +16,7 @@
 ## Description of the Memory Game
 The Memory game is a matching game that display a lists of pair of identical cards, and randomly shuffles the cards.
 A user of _the Memory Game_ wins once all cards have been successfully matched.
-[Project Link](https://marusoft.github.io/Fend-Project-Memory-Game)
+[Project link](https://marusoft.github.io/Fend-Project-Memory-Game/)
 
 ## Shuffling and Matching Cards
 The game randomly shuffes the cards. A player(user) starts by clicking each cards to reveal two matched cards.
@@ -43,12 +43,13 @@ A congratulations modal appears once all cards have been successfully matched by
 All application components are designed to be usable across modern desktop, tablet, and phone browsers.
 
 ## Dependencies
-The following are the dependencies that was used during the development of the ** Memory Game Project ** :
+The following are the dependencies that was used during the development of the *Memory Game Project* :
 * HTML/CSS
 * Vanilla JavaScript with DOM manipulation
 * Fonts Awesome Icon
 * Google Fonts
 * MDN Documentation
+* Sandra Isreal-Ovirih Blog on [scotch.io](https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript)
 
 ## Installation
 
