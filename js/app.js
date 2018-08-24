@@ -6,7 +6,7 @@
  let cards = [...card];
 
  // deck of all cards in game
-const deck = document.querySelector("#card-deck");
+ const deck = document.querySelector("#card-deck");
 
  // number of moves a user has made
  let moves = 0;
@@ -77,6 +77,9 @@ function startGame(){
     var timer = document.querySelector(".timer");
     timer.innerHTML = "0 mins 0 secs";
     clearInterval(interval);
+
+    // reset game on refresh
+    openedCards = [];
 }
 
 // toggles open and show class to display card

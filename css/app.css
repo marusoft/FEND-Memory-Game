@@ -17,7 +17,7 @@ body {
 }
 
 body {
-    background: #ffffff url(../img/geometry2.png);
+    background:url(../img/geometry2.png);
     font-family: 'Coda', cursive;
     font-size: 16px;
 }
@@ -55,7 +55,7 @@ h1 {
     height: 3.7rem;
     width: 3.7rem;
     margin: 0.2rem 0.2rem;
-    background: #2e3d49;
+    background:url(../img/preview.jpg);
     font-size: 0;
     color: #ffffff;
     border-radius: 5px;
@@ -157,7 +157,7 @@ h1 {
 .popup {
     margin: 70px auto;
     padding: 20px;
-    background: #efefef;
+    background:url(../img/CI.png);
     border-radius: 5px;
     width: 85%;
     position: relative;
